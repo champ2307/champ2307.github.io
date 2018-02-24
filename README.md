@@ -45,7 +45,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/champ2307/manish.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/champ2307/manish.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration [file](https://champ2307.github.io/index.html).
 
 ### Support or Contact
 
