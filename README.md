@@ -4,7 +4,7 @@ As Kanye West said:
 > We're living the future so
 > the present is our past.
 
-This website is created as a part of my assignment Kbeznak parmatonic(https://github.com/champ2307/manish.github.io/edit/master/README.md) 
+This website is created as a part of my assignment [Kbeznak](/index.html) parmatonic(https://github.com/champ2307/manish.github.io/edit/master/README.md) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
