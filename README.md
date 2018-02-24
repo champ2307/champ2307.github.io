@@ -4,7 +4,7 @@ As Kanye West said:
 > We're living the future so
 > the present is our past.
 
-This website is created as a part of my assignment [Kbeznak](/index.html) parmatonic(https://github.com/champ2307/manish.github.io/edit/master/README.md) 
+This website is created as a part of my assignment [Kbeznak parmatonic](https://github.com/champ2307/manish.github.io/edit/master/README.md) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -26,26 +26,27 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
+# kbeznak parmatonic
+## kbeznak parmatonic
+### kbeznak parmatonic
+###### kbeznak parmatonic
+##### kbeznak parmatonic
+- For details [kbeznak parmatonic](https://en.wikipedia.org/wiki/Stanford_University)
 - List
 
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**kbeznak parmatonic** and kbeznak parmatonic and `kbeznak parmatonic` text
 
 [Link](url) and ![Image](src)
 ```
 HI I am manish.singhal
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### kbeznak parmatonic Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/champ2307/manish.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the kbeznak parmatonic theme you have selected in your [repository settings](https://github.com/champ2307/manish.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
