@@ -56,4 +56,4 @@ Your Pages site will use the layout and styles from the [kbeznak parmatonic]((ht
 ### Support or Contact
 
 Having trouble with Pages? Check out my website [documentation](http://kbeznakparmatonic.weebly.com/) or [contact support](https://support.google.com/webmasters/answer/7451184?hl=en) and we’ll help you sort it out.
- More details [contact] (https://github.com/champ2307/manish.github.io/)
+ More details [contact](https://github.com/champ2307/manish.github.io/data/contact.html)
